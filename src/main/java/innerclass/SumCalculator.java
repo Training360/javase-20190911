@@ -27,4 +27,8 @@ public class SumCalculator {
         });
         System.out.println(sum);
     }
+
+    public interface TaxCalculator {
+        int calculateTax(int base);
+    }
 }
