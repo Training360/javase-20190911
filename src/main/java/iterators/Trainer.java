@@ -1,4 +1,4 @@
-package innerclassdemo;
+package iterators;
 
 import java.util.*;
 

@@ -1,0 +1,6 @@
+icell=container.Address
+icell.city=Budapest
+icell.line=Gizella
+training=container.Address
+training.city=Budapest
+training.line=Hengermalom

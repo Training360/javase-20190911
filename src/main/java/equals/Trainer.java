@@ -1,4 +1,4 @@
-package eq;
+package equals;
 
 import java.util.Objects;
 
